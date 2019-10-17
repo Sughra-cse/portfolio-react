@@ -1,0 +1,19 @@
+.mainprofile{
+  padding:5px;
+  padding-left:20px;
+}
+
+.profile label{
+  font-size:16pt;
+  padding-left:40px;
+}
+.profile  {
+  border-collapse: collapse;
+  font-size: 14pt;
+  font-family:Georgia, 'Times New Roman', Times, serif 
+
+} 
+
+.th{
+  font-size:25pt;
+}

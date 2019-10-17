@@ -1,0 +1,19 @@
+.Classnav{
+    /* background-color: rgba(7, 124, 65, 0.829); */
+    /* background-image: url("image1.jpg"); */
+
+    padding:20px;
+}
+.Classnav ul li:Hover{
+    color:white;
+    background-color:rgb(128, 41, 0);
+    cursor:pointer;
+}
+.Classnav ul li{
+    font-style: italic;
+    font-size:15pt;
+    display:inline-block;
+    padding:20px;
+    color:white;
+}
+.Classnav ul { list-style: none;}
