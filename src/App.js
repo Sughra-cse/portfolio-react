@@ -27,8 +27,12 @@ class App extends React.Component {
     <Route exact path={"/education"} component={Education}/>
     <Route exact path={"/skills"} component={Skills}/>
     <Route exact path={"/hobbies"} component={Hobbies}/>
-    </div>
-  </Router>
+    </div>  
+    <footer className="foot">
+      For Contact:<a href="telto:7892832236">Click-here</a>
+      For Mail:<a href="mailto:sughra788@gmail.com">Click-here</a>
+    </footer>
+    </Router>
   );
 }
 }

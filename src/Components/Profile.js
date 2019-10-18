@@ -21,7 +21,13 @@ class Profile extends React.Component {
             </tr>
             <tr>
               <td><label>Email:</label>sughra788@gmail.com</td>
-            </tr>
+              </tr>
+              <tr>
+                <td><label>Github UserName:</label>sughra-cse</td>
+              </tr>
+              <tr>
+                <td><label>LinkedIn:</label>https://www.linkedin.com/in/bi-bi-soghra-556a76171</td>
+              </tr>
           </table>
         </div>
      </div>
