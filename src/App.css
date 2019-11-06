@@ -2,9 +2,24 @@
     width:80%;
     padding:10px;
 }
+   
+
 .parent{
     background-image: url("background.jpg");
     margin-left:40%;
     width:100%;
     border:3px solid palegreen;
+   
 }
+@media screen and (max-width:992px) {
+    .parent{
+        background-image:url("background.jpg");
+        /* background-color:blue; */
+    }
+}
+@media screen and (max-width:600px) {
+    .parent{
+        background-image:url("background.jpg");
+               
+    }
+    }

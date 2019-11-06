@@ -6,6 +6,7 @@ import Education from "./Components/Education";
 import Skills from "./Components/Skills";
 import Hobbies from "./Components/Hobbies";
 import Header from "./Header";
+// import Hook from "./Components/Hook.js"
 
 import {BrowserRouter as Router,Route,Link} from "react-router-dom" 
 
@@ -32,6 +33,7 @@ class App extends React.Component {
       For Contact:<a href="telto:7892832236">Click-here</a>
       For Mail:<a href="mailto:sughra788@gmail.com">Click-here</a>
     </footer>
+    {/* <Hook/> */}
     </Router>
   );
 }
